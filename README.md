@@ -54,12 +54,12 @@ I generally have a few things swimming around in my brain at any one time so if 
 Matters that address the contents of that wall are likely to be well received but also if something important is missing please do tell me.
 
 ## Understanding where I am with you and where you are with me
-Taking this from [Welcome to Netflix and Me](https://docs.google.com/presentation/d/1TPSwdqDqVfWG9anfiOjGUjk0k6zQDij5xPvatPg7NFE/edit#slide=id.g3086af6854_0_173)
+As I don't like formal levelling exercises on an arbitrary cycle I hold a continuous view of your performance. This basically has three levels.
 
-> In my head, every person reporting to me is in one of three particular levels of performance at any given point:
-> * Green: You may have things you want to improve, there may be things I want you to improve, but if you changed nothing, given our current requirements I'd be delighted if you continued to work here for as long as you wanted
-> * Orange: There's something you're doing that, long-term, makes your current trajectory unsustainable.  This, if not changed, will not end well.  You'll need to change something
-> * Red: Your trajectory is unsustainable on a short-term and there's a specific, concrete, timebox we'll be putting around changing it, and you and I have had an explicit conversation around what's wrong and what the timeline for fixing it is.
-> I might realize in hindsight that you're not actually green but orange, but red is never a hindsight realization.  It also means that the answer to the question "am I red right now?" is "if you have to ask, the answer is no".
+* Good : I am loving being around you and your work.  It's a great fit for me and I hope it's a good fit for you.  Sure we can always talk about things that we can do to help each other but nothing's glaring. As a personal goal I try to have at least 99% of people reporting to or through me in that bucket.
 
-This seems correct.  I am thinking of changing the names so colour-blind people don't sigh when they hear it.  Other than that you can ask me straight up where you are and I'll give you the why and what.
+* OK : There's important matters for us to work on together.  At this point your expectation of me is that I'm making the issues clear (and pointing out their impact) and offering support for remediation.  I'm generally using our time together pointing to things I expect you to work on and making suggestions for different ways to approach your work. There's no judgement for moving in and out of this level but hopefully it's not a long term thing.
+
+* Requiring Support : At this point two things need to be said.  First that this should never come as a surprise.  You'll never go from Good to Requiring Support with no stop in between.  Second, there's *always* a way back from here, no one is without hope.  We might agree that's not something we want to do together and should see that as a reasonable option but I have no intention of letting you slide out of the organisation without a fight.  At this point whatever we tried at OK hasn't worked and we are now in a more formal process.
+
+If you're ever not sure ask me and I'll tell you where I think you are and why.  By the same token you're welcome to hold me to the same standard and I will take that feedback.
