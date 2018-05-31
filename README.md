@@ -37,13 +37,11 @@ After that try the phone or slack.  Do be aware that I turn on do not disturb af
 I check email a couple of times a day but reserve replies for the end of the day or after hours.  Try and reserve this for things you want me to mull over or information updates.
 
 ## One on one time
-I pulled this from [Scott Burn's README](https://docs.google.com/presentation/d/1PE2OmkVykdZYF2QzmJ-ZUHqBAxnnsbnMsd19z3qLWNI/edit#slide=id.g326aa7ae8d_0_203):
-> These meetings are designed to give you a dedicated time and place to ask anything and everything.
-> * Hopefully we talk about things you wouldn't’t otherwise bring up in a group setting. I want our 1:1 to be a safe place; if this isn’t the case please tell my boss.
-> * We will go through your agenda first and if time permits I will always have some questions. First and foremost these meetings are for you.
-> * Urgent matters should not wait for a 1:1.
+First if it's urgent don't wait for a 1:1 let's get it fixed now.
 
-Now I'm not so sure about that second point.  I certainly think it's great if you have an agenda but I know that's full on if you aren't explicitly preparing.  So in general I use a simple format and if you want to innovate I'm good with that.  My framework is simple:
+Secondly, to quote [Scott Burn's README](https://docs.google.com/presentation/d/1PE2OmkVykdZYF2QzmJ-ZUHqBAxnnsbnMsd19z3qLWNI/edit#slide=id.g326aa7ae8d_0_203) "These meetings are designed to give you a dedicated time and place to ask anything and everything.  That means they're a safe space too, if there's things you need to talk about but can't in a group setting we can do that here.  If you ever feel it's not safe you should raise that with HR or Phil.
+
+I certainly think it's great if you have an agenda but I know that's full on if you aren't explicitly preparing.  So in general I use a simple format and if you want to innovate I'm good with that.  My framework is simple:
 1. How are you going?  Tell me about what's happening with you.  This is a good opportunity to discuss professional development.
 2. How's your team going?  This gives me a view into where you think your colleagues are and how your work in progressing.  It's a great time to highlight people's achievements that I might have missed.
 3. How am I going?  This is your opportunity to give me feedback.  What am I doing wrong?  What am I missing? What else could I be doing to support you and the team?
