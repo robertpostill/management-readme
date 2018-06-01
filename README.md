@@ -39,7 +39,7 @@ I check email a couple of times a day but reserve replies for the end of the day
 ## One on one time
 First if it's urgent don't wait for a 1:1 let's get it fixed now.
 
-Secondly, to quote [Scott Burn's README](https://docs.google.com/presentation/d/1PE2OmkVykdZYF2QzmJ-ZUHqBAxnnsbnMsd19z3qLWNI/edit#slide=id.g326aa7ae8d_0_203) "These meetings are designed to give you a dedicated time and place to ask anything and everything.  That means they're a safe space too, if there's things you need to talk about but can't in a group setting we can do that here.  If you ever feel it's not safe you should raise that with HR or Phil.
+Secondly, to quote [Scott Burn's README](https://docs.google.com/presentation/d/1PE2OmkVykdZYF2QzmJ-ZUHqBAxnnsbnMsd19z3qLWNI/edit#slide=id.g326aa7ae8d_0_203) "These meetings are designed to give you a dedicated time and place to ask anything and everything.  That means they're a safe space too, if there's things you need to talk about but can't in a group setting we can do that here.  If you ever feel it's not safe you should raise that with Clare or Phil.
 
 I certainly think it's great if you have an agenda but I know that's full on if you aren't explicitly preparing.  So in general I use a simple format and if you want to innovate I'm good with that.  My framework is simple:
 1. How are you going?  Tell me about what's happening with you.  This is a good opportunity to discuss professional development.
